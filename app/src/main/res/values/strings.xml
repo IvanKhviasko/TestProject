@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">TestProject</string>
+    <string name="app_name">List</string>
+    <string name="retrofit_list">Retrofit</string>
+    <string name="database_list">Database</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="map">Map</string>
+    <string name="game">Game</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="MAPS_API_KEY">AIzaSyB4HEBP_4ZbS2J_oni5m-2ON0hDU_agYdA</string>
+    <string name="city" />
+    <string name="longitude" />
+    <string name="latitude" />
+
 </resources>
