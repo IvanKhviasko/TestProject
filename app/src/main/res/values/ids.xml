@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bottom_sheet" type="id" />
+    <item name="city_name" type="id" />
+    <item name="longitude_label" type="id" />
+    <item name="longitude" type="id" />
+    <item name="latitude_label" type="id" />
+    <item name="latitude" type="id" />
+</resources>
